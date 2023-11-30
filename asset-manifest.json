@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13ab0edc.css",
+    "main.js": "/static/js/main.176a3782.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/avatar.png": "/static/media/avatar.47ff37501f1114547f8e.png",
+    "static/media/voytur.jpeg": "/static/media/voytur.e25755e000a614e8fe3d.jpeg",
+    "static/media/sushizen.jpeg": "/static/media/sushizen.3b8a136cec83bc073f8f.jpeg",
+    "static/media/visioncritica.jpeg": "/static/media/visioncritica.420e725c47df0481e8c5.jpeg",
+    "static/media/about.png": "/static/media/about.7af649a74ff7f31c1884.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.85e2c198786659360511.jpg",
+    "static/media/firstportfolio.jpeg": "/static/media/firstportfolio.2790d460ead843a3cf47.jpeg",
+    "static/media/justbeauty.jpeg": "/static/media/justbeauty.447d375ef58cc71e5d01.jpeg",
+    "static/media/oldportfolio.jpeg": "/static/media/oldportfolio.12d751ec95b688fe7775.jpeg",
+    "static/media/organizerapp.jpeg": "/static/media/organizerapp.1f9dd78e1a3e0b2fb426.jpeg",
+    "static/media/portfolio.jpeg": "/static/media/portfolio.7a94c2df6aead01ca036.jpeg",
+    "static/media/buscaminas.jpeg": "/static/media/buscaminas.691ef403c589f63fb657.jpeg",
+    "static/media/argentina.png": "/static/media/argentina.4708cf24998eed56f5fb.png",
+    "static/media/usa.png": "/static/media/usa.749e14c6925e054b1f3f.png",
+    "static/media/home-main.png": "/static/media/home-main.e3d937873db88c47bcde.png",
+    "static/media/pre.svg": "/static/media/pre.a984073255555f4a2aa3.svg",
+    "index.html": "/index.html",
+    "main.13ab0edc.css.map": "/static/css/main.13ab0edc.css.map",
+    "main.176a3782.js.map": "/static/js/main.176a3782.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13ab0edc.css",
+    "static/js/main.176a3782.js"
+  ]
+}
